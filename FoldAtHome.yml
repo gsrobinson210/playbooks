@@ -1,0 +1,5 @@
+name: Copy Fold at Home RPMS
+fetch:
+	src: //192.168.10.18/VMBackup/rpms
+	dest: /root
+	flat: yes
